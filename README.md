@@ -2,7 +2,7 @@
 
 Kortkassen giver medlemmer af en lokal forening digital adgang til foreningens
 fælles debetkort via dets EAN-stregkode. Navnet kommer fra kassen bag disken i
-Brugsen, hvor foreningens kort tidligere lå. Nu er kassen digital – og husker,
+den lokale butik, hvor foreningens kort tidligere lå. Nu er kassen digital – og husker,
 hvem der åbnede den.
 
 ## Hvorfor Kortkassen?
