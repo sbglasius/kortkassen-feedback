@@ -1,7 +1,7 @@
 # Kortkassen
 
 Kortkassen giver medlemmer af en lokal forening digital adgang til foreningens
-fælles Coop-kort via dets EAN-stregkode. Navnet kommer fra kassen bag disken i
+fælles debetkort via dets EAN-stregkode. Navnet kommer fra kassen bag disken i
 Brugsen, hvor foreningens kort tidligere lå. Nu er kassen digital – og husker,
 hvem der åbnede den.
 
